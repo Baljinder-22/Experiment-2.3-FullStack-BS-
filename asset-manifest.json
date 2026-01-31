@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/css/main.3d66be45.css",
-    "main.js": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/main.e561fe6d.js",
-    "static/js/453.9f71dafc.chunk.js": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/453.9f71dafc.chunk.js",
+    "main.css": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/css/main.f4fa50f5.css",
+    "main.js": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/main.31f62c9c.js",
     "index.html": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/index.html",
-    "main.3d66be45.css.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/css/main.3d66be45.css.map",
-    "main.e561fe6d.js.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/main.e561fe6d.js.map",
-    "453.9f71dafc.chunk.js.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/453.9f71dafc.chunk.js.map"
+    "main.f4fa50f5.css.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/css/main.f4fa50f5.css.map",
+    "main.31f62c9c.js.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/main.31f62c9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d66be45.css",
-    "static/js/main.e561fe6d.js"
+    "static/css/main.f4fa50f5.css",
+    "static/js/main.31f62c9c.js"
   ]
 }
