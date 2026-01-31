@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/css/main.3d66be45.css",
+    "main.js": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/main.e561fe6d.js",
+    "static/js/453.9f71dafc.chunk.js": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/453.9f71dafc.chunk.js",
+    "index.html": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/index.html",
+    "main.3d66be45.css.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/css/main.3d66be45.css.map",
+    "main.e561fe6d.js.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/main.e561fe6d.js.map",
+    "453.9f71dafc.chunk.js.map": "/Baljinder-22/Experiment-2.3-FullStack-BS-.git/static/js/453.9f71dafc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d66be45.css",
+    "static/js/main.e561fe6d.js"
+  ]
+}
